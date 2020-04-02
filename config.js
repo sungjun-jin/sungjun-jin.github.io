@@ -1,9 +1,9 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://github.com/sungjun-jin/sungjun-jin.github.io',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
+  title: 'Sung Jun Jin',
   subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
